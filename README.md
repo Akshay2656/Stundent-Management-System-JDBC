@@ -17,4 +17,13 @@ The application allows users to perform basic CRUD operations (Create, Read, Upd
 
 🔍 Search records by ID
 
+## 🛠️ Technologies Used
+Java (Core Java)
+
+JDBC API
+
+PostgreSQL Database
+
+Eclipse 
+
 
