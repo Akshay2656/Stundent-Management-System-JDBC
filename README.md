@@ -13,6 +13,8 @@ The application allows users to perform basic CRUD operations (Create, Read, Upd
 
 ✏️ Update existing records
 
+✏️ Update records by ID
+
 ❌ Delete records
 
 🔍 Search records by ID
